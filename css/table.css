@@ -1,0 +1,17 @@
+
+
+#maintable{
+    width: 100%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    border: 1px solid blue;
+}
+
+#maintable th,td{
+    border: 1px solid green;
+    padding: 5px;
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+   text-align: center; 
+    
+}
